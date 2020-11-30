@@ -3,8 +3,8 @@ HTML, CSS, JavaScript, PHP and MySQL Web Development training.
 
 # Project Problem statement
 College management
-   Students
-   Courses
-   Tutors
-   Other employees
-   Books
+   1. Students
+   2. Courses
+   3. Tutors
+   4. Other employees
+   5. Books
